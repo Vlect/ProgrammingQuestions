@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.TwoNumberSum;
 import java.util.Arrays;
 
 public class solution3 {
